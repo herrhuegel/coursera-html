@@ -47,16 +47,15 @@ body {
   padding: 15px;
 }
 
-#main-content h1, #chicken h2 {
-  text-align: center;
-}
-
 #nav-list {
   background-color: white;
   color: black;
-  text-align: center;
   padding: 1px;
   margin: 0;
+}
+
+#collapsable-nav {
+  padding: 0;
 }
 
 #collapsable-nav li {
